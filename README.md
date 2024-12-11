@@ -6,6 +6,7 @@ This project aims to predict the share of coal, gas and renewables in eneregy ge
 
 The dataset can be accessed from Kaggle:
 [World Energy Consumption](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption)
+The dataset is also attached in this repo as a .csv file.
 
 ## Setup Instructions
 
